@@ -1,5 +1,7 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+This book is a collection of regularly needed tools and code for spatial and data analysis in
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+
+ <https://quarto.org/docs/books>.

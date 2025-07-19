@@ -4,12 +4,13 @@ project:
 
 book:
   title: "R resource collection"
-  author: "Norah Jones"
+  author: "Konstantin Engelmayer & Emilio Sánchez"
   date: "19.7.2025"
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
+    - raster.qmd
+    - vector.qmd
     - references.qmd
 
 bibliography: references.bib
